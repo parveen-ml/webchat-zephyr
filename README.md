@@ -9,7 +9,6 @@ A simple console-based chatbot that answers questions from any webpage using Hug
 - Extracts website text using BeautifulSoup
 - Sends user queries + site content to Zephyr-7B-beta
 - Returns contextual answers in console
-- Uses `.env` for API key security
 - Works with any readable URL (e.g. Wikipedia, Flipkart)
 
 ---
